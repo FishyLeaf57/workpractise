@@ -1,0 +1,10 @@
+What is version control?
+
+Version control systems help you keep track of changes you make in your data. (Project, code or documents etc...)
+As you edit you data, the version control system takes a snapshot of your files, in order for you to subit changes to the code or text for review and later submission to the main data source.
+Benefits of a version control system include:
+Creation of workflows
+Version history
+Colaboration
+History of all changes
+Automation
